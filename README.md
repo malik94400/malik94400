@@ -61,6 +61,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</p>
 
-### ✨ Fun Fact
-⚡ I love exploring new technologies and constantly improving my craft!
+
+
+
+
