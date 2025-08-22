@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shahzaib Malik</h1>
+<h1 align="center">Hi 👋 I'm MUHAMMAD Malik</h1>
 
 <!-- Banner GIF -->
 <p align="center">
