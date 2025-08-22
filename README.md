@@ -1,9 +1,11 @@
+<h1 align="center">Hi 👋, I'm Shahzaib Malik</h1>
+
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVlaTF4bjNyZDN1ZHVubXYxM2FsOWp2ZnZtdjMwMThqdGNrcXQ0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500" alt="Coding GIF">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRpdm96b2J5M3RsbXFsNDdxYWY0amVwNjkxcDNmMmtnbWRkbnMwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="" alt="Coding GIF">
 </p>
 
-<h1 align="center">Hi 👋, I'm Shahzaib Malik</h1>
+
 <h3 align="center">💻 Developer | 🚀 Tech Enthusiast | 🎨 Creator</h3>
 
 <!-- Typing Animation -->
