@@ -17,18 +17,15 @@
 
 
 
-## 🌍 Programming languages:
-![](https://skillicons.dev/icons?i=py,js,php,html,java&theme=dark)
-
-## ⚙️ Programming Tools:
-![](https://skillicons.dev/icons?i=github,git,nodejs,vscode,phpstorm,webstorm,pycharm,idea&theme=dark)  
-![](https://skillicons.dev/icons?i=md,mysql&theme=dark)
-
-## 🔧 OS:
-![](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian&theme=dark)
-
-## 💼 Réseaux :
-[![](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/malik-shahzaib-215260286)
+```javascript
+const malik = {
+  pronouns: "he" | "him",
+  code: [ Javascript, Typescript, HTML, CSS, Java, PHP ],
+  databases: [ MySQL ],
+  tools: [ Docker, Symfony ],
+  interests: [web magic 🪄, clean code ✨, coffee ☕, gaming 🕹️],
+}
+```
 
 
 ---
