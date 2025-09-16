@@ -28,30 +28,5 @@ const malik = {
 ```
 
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik94400&layout=compact&theme=radical" alt="top languages"/>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malik94400&theme=radical" alt="summary"/>
-  </a>
-</p>
-
-<!-- Top Languages -->
-
-
----
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
-
-
-
 
 
