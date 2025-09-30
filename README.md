@@ -20,6 +20,7 @@
 ```javascript
 const malik = {
   pronouns: "he" | "him",
+  school: "Efrei" ,
   code: [ Javascript, Typescript, HTML, CSS, Java, PHP ],
   databases: [ MySQL ],
   tools: [ Docker, Symfony, React ],
