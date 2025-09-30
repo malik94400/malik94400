@@ -20,11 +20,11 @@
 ```javascript
 const malik = {
   pronouns: "he" | "him",
-  school: "Efrei" ,
-  code: [ Javascript, Typescript, HTML, CSS, Java, PHP ],
-  databases: [ MySQL ],
-  tools: [ Docker, Symfony, React ],
-  interests: [web magic 🪄, clean code ✨, coffee ☕, gaming 🕹️],
+  school: "Efrei 🎓" ,
+  code: [ "💛 JavaScript", "🔷 TypeScript", "🌐 HTML", "🎨 CSS", "☕ Java", "🐘 PHP" ],
+  databases: [ "🗄️ MySQL" ],
+  tools: [ "🐳 Docker", "⚡ Symfony", "⚛️ React" ],
+  interests: [ "clean code ✨", "coffee ☕", "gaming 🕹️" ],
 }
 ```
 
