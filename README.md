@@ -22,7 +22,7 @@ const malik = {
   pronouns: "he" | "him",
   code: [ Javascript, Typescript, HTML, CSS, Java, PHP ],
   databases: [ MySQL ],
-  tools: [ Docker, Symfony ],
+  tools: [ Docker, Symfony, React ],
   interests: [web magic 🪄, clean code ✨, coffee ☕, gaming 🕹️],
 }
 ```
